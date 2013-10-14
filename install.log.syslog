@@ -1,0 +1,60 @@
+<86>Oct 14 13:05:10 groupadd[874]: new group: name=utmp, GID=22
+<86>Oct 14 13:05:11 groupadd[878]: new group: name=utempter, GID=35
+<86>Oct 14 13:05:32 useradd[938]: new group: name=apache, GID=48
+<86>Oct 14 13:05:32 useradd[938]: new user: name=apache, UID=48, GID=48, home=/var/www, shell=/sbin/nologin
+<86>Oct 14 13:05:36 groupadd[947]: new group: name=rpc, GID=32
+<86>Oct 14 13:05:37 useradd[951]: new user: name=rpc, UID=32, GID=32, home=/, shell=/sbin/nologin
+<86>Oct 14 13:05:39 useradd[957]: new group: name=rpcuser, GID=29
+<86>Oct 14 13:05:39 useradd[957]: new user: name=rpcuser, UID=29, GID=29, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Oct 14 13:05:41 useradd[965]: new group: name=nfsnobody, GID=65534
+<86>Oct 14 13:05:41 useradd[965]: new user: name=nfsnobody, UID=65534, GID=65534, home=/var/lib/nfs, shell=/sbin/nologin
+<86>Oct 14 13:05:44 useradd[1008]: new group: name=mailnull, GID=47
+<86>Oct 14 13:05:44 useradd[1008]: new user: name=mailnull, UID=47, GID=47, home=/var/spool/mqueue, shell=/sbin/nologin
+<86>Oct 14 13:05:48 useradd[1013]: new group: name=smmsp, GID=51
+<86>Oct 14 13:05:48 useradd[1013]: new user: name=smmsp, UID=51, GID=51, home=/var/spool/mqueue, shell=/sbin/nologin
+<21>Oct 14 14:05:48 sendmail[1027]: alias database /etc/aliases rebuilt by root
+<22>Oct 14 14:05:48 sendmail[1027]: /etc/aliases: 76 aliases, longest 10 bytes, 765 bytes total
+<86>Oct 14 13:06:04 useradd[1058]: new group: name=distcache, GID=94
+<86>Oct 14 13:06:04 useradd[1058]: new user: name=distcache, UID=94, GID=94, home=/, shell=/sbin/nologin
+<86>Oct 14 13:06:07 useradd[1072]: new group: name=nscd, GID=28
+<86>Oct 14 13:06:07 useradd[1072]: new user: name=nscd, UID=28, GID=28, home=/, shell=/sbin/nologin
+<86>Oct 14 13:06:11 groupadd[1098]: new group: name=floppy, GID=19
+<86>Oct 14 13:06:14 useradd[1102]: new group: name=vcsa, GID=69
+<86>Oct 14 13:06:14 useradd[1102]: new user: name=vcsa, UID=69, GID=69, home=/dev, shell=/sbin/nologin
+<86>Oct 14 13:06:17 useradd[1131]: new group: name=sshd, GID=74
+<86>Oct 14 13:06:17 useradd[1131]: new user: name=sshd, UID=74, GID=74, home=/var/empty/sshd, shell=/sbin/nologin
+<86>Oct 14 13:06:23 useradd[1139]: new group: name=webalizer, GID=67
+<86>Oct 14 13:06:23 useradd[1139]: new user: name=webalizer, UID=67, GID=67, home=/var/www/usage, shell=/sbin/nologin
+<86>Oct 14 13:06:26 useradd[1165]: new group: name=dovecot, GID=97
+<86>Oct 14 13:06:26 useradd[1165]: new user: name=dovecot, UID=97, GID=97, home=/usr/libexec/dovecot, shell=/sbin/nologin
+<86>Oct 14 13:06:32 groupadd[1194]: new group: name=squid, GID=23
+<86>Oct 14 13:06:34 useradd[1199]: new user: name=squid, UID=23, GID=23, home=/var/spool/squid, shell=/sbin/nologin
+<86>Oct 14 13:06:38 useradd[1220]: new group: name=mysql, GID=27
+<86>Oct 14 13:06:38 useradd[1220]: new user: name=mysql, UID=27, GID=27, home=/var/lib/mysql, shell=/bin/bash
+<86>Oct 14 13:06:45 groupadd[1240]: new group: name=pcap, GID=77
+<86>Oct 14 13:06:48 useradd[1244]: new user: name=pcap, UID=77, GID=77, home=/var/arpwatch, shell=/sbin/nologin
+<86>Oct 14 13:06:51 groupadd[1516]: new group: name=slocate, GID=21
+<86>Oct 14 13:07:23 groupadd[2272]: new group: name=ntp, GID=38
+<86>Oct 14 13:07:23 useradd[2276]: new user: name=ntp, UID=38, GID=38, home=/etc/ntp, shell=/sbin/nologin
+<14>Oct 14 13:08:08 gconfd (root-2325): comenzando (versión  2.14.0), pid 2325 usuario «root»
+<14>Oct 14 13:08:08 gconfd (root-2325): Se resolvió la dirección «xml:readonly:/etc/gconf/gconf.xml.mandatory» a una fuente de configuración de sólo lectura en la posición 0
+<14>Oct 14 13:08:08 gconfd (root-2325): Se resolvió la dirección «xml:readwrite:/root/.gconf» a una fuente de configuración escribible en la posición 1
+<14>Oct 14 13:08:08 gconfd (root-2325): Se resolvió la dirección «xml:readonly:/etc/gconf/gconf.xml.defaults» a una fuente de configuración de sólo lectura en la posición 2
+<14>Oct 14 13:08:10 gconfd (root-2325): Finalizando
+<86>Oct 14 13:09:07 useradd[2824]: new group: name=dbus, GID=81
+<86>Oct 14 13:09:07 useradd[2824]: new user: name=dbus, UID=81, GID=81, home=/, shell=/sbin/nologin
+<86>Oct 14 13:09:10 useradd[2833]: new group: name=haldaemon, GID=68
+<86>Oct 14 13:09:10 useradd[2833]: new user: name=haldaemon, UID=68, GID=68, home=/, shell=/sbin/nologin
+<86>Oct 14 13:09:11 useradd[2845]: new group: name=avahi, GID=70
+<86>Oct 14 13:09:11 useradd[2845]: new user: name=avahi, UID=70, GID=70, home=/, shell=/sbin/nologin
+<86>Oct 14 13:09:25 groupadd[2953]: new group: name=hsqldb, GID=96
+<86>Oct 14 13:09:26 useradd[2957]: new user: name=hsqldb, UID=96, GID=96, home=/var/lib/hsqldb, shell=/sbin/nologin
+<86>Oct 14 13:09:38 groupadd[3103]: new group: name=named, GID=25
+<86>Oct 14 13:09:39 useradd[3107]: new user: name=named, UID=25, GID=25, home=/var/named, shell=/sbin/nologin
+<86>Oct 14 13:09:40 groupadd[3122]: new group: name=avahi-autoipd, GID=101
+<86>Oct 14 13:09:42 useradd[3127]: new user: name=avahi-autoipd, UID=100, GID=101, home=/var/lib/avahi-autoipd, shell=/sbin/nologin
+<86>Oct 14 13:09:46 useradd[3167]: new group: name=xfs, GID=43
+<86>Oct 14 13:09:46 useradd[3167]: new user: name=xfs, UID=43, GID=43, home=/etc/X11/fs, shell=/sbin/nologin
+<86>Oct 14 13:13:28 useradd[4532]: new group: name=gdm, GID=42
+<86>Oct 14 13:13:28 useradd[4532]: new user: name=gdm, UID=42, GID=42, home=/var/gdm, shell=/sbin/nologin
+<86>Oct 14 13:13:29 usermod[4537]: change user `gdm' shell from `/sbin/nologin' to `/sbin/nologin'
